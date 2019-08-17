@@ -1,0 +1,2 @@
+$PSScriptRoot
+echo @Args | rm
